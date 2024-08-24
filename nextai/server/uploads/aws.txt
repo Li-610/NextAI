@@ -1,0 +1,7 @@
+AWS Region: us-east-2
+access-key: AKIAVRUVVRFLPGBCECHN
+secret-keys: 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
+master username: admin
+Password: lihairuo
+RDS database URL: database-1.cfw88a0q8166.us-east-2.rds.amazonaws.com
+ECR Repository Name URL: 381492234582.dkr.ecr.us-east-2.amazonaws.com
